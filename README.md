@@ -2,7 +2,7 @@
 
 
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusShinokawa&hide=contribs,prs)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusShinokawa&show_icons=true&theme=tokyonight)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusShinokawa&hide_count=8)
  
 - 🔭 Eu sou um Desenvolvedor Front End Junior 
