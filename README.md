@@ -8,5 +8,5 @@
 - 🔭 Desenvolvedor Full-Stack junior 
 - 🌱 Cursando Analise e Desenvolvimento de Sistema
 - Sobre mim: https://vinicius-front-end.vercel.app 
-
+- https://www.linkedin.com/in/vinicius-akutagawa-525932163/
 
